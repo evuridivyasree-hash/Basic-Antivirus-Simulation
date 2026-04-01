@@ -1,0 +1,1 @@
+like "This is a clean file"
